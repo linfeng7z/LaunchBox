@@ -55,7 +55,8 @@
    - 环境：选择运行环境（仅 jar/python 类型需要）
    - 完整命令：自定义启动命令（可选）
    - 分类：选择工具分类
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/2ab387f7-cba6-4c22-8327-449948bf5809" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/bd188c88-e5f0-4c96-8f8e-8f3429a31cab" />
+
 
 
 ### 完整命令模板说明
