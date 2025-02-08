@@ -1,7 +1,8 @@
 # LaunchBox
 
 一个用于快速启动和管理各类工具的图形化工具箱，支持多种类型工具的统一管理和快速启动。
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/fac0caa0-9802-48f3-85de-7ba04a03503e" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/46522e6e-8272-49b4-a73e-74525a627afc" />
+
 
 
 ## 功能特点
@@ -34,7 +35,8 @@
 2. 可以配置 Java 和 Python 环境：
    - Java 环境：配置 Java 可执行文件路径（如：/usr/bin/java）
    - Python 环境：配置 Python 解释器路径（如：/usr/bin/python3）
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/496dc6ec-76ee-4de9-87a0-849b898cec42" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/ccaab239-c02a-487b-a699-d5afe06a9323" />
+
 
 
 ### 工具分类管理
@@ -42,7 +44,8 @@
 1. 在"环境配置"标签页的"工具分类"选项卡中
 2. 可以添加、编辑、删除工具分类
 3. 分类用于对工具进行归类管理
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/79026cec-583e-485f-ae8e-21ee017101c5" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/b3d011a5-2c48-41b1-9321-dccd5341dc46" />
+
 
 
 ### 添加工具
@@ -55,7 +58,9 @@
    - 环境：选择运行环境（仅 jar/python 类型需要）
    - 完整命令：自定义启动命令（可选）
    - 分类：选择工具分类
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/bd188c88-e5f0-4c96-8f8e-8f3429a31cab" />
+
+
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/a680b583-94e4-4f6f-91cc-6203d8a26ab1" />
 
 
 
