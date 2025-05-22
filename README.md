@@ -12,6 +12,7 @@
   - Java JAR 程序
   - Python 脚本
   - 可执行程序
+  - shell 脚本
 - 支持工具分类管理
 - 支持环境配置管理（Java/Python）
 - 支持模糊搜索工具
